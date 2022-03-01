@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form, or order of thanksgiving. And prayer, to be used in London, and ten miles round on Sunday the 15th of this instant January, and throughout England on Sunday the 29th of the same month, by all parsons, vicars, and curats in their respective parish churches, and chapels, in behalf of the King, and the Queen and the Royal Family, upon occasion of the Queen's being with child. By His Majesties special command.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02183</idno>
+            <idno type="STC">Wing C4182B</idno>
+            <idno type="STC">ESTC R173991</idno>
+            <idno type="EEBO-CITATION">52612097</idno>
+            <idno type="OCLC">ocm 52612097</idno>
+            <idno type="VID">179379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179379)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2786:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form, or order of thanksgiving. And prayer, to be used in London, and ten miles round on Sunday the 15th of this instant January, and throughout England on Sunday the 29th of the same month, by all parsons, vicars, and curats in their respective parish churches, and chapels, in behalf of the King, and the Queen and the Royal Family, upon occasion of the Queen's being with child. By His Majesties special command.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed at Holy-Rood-House,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: faded print with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Mary, --  of Modena, --  Queen, consort of James II, King of England, 1658-1718.</term>
+               <term>Church of England --  Prayer-books and devotions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179379:1"/>
+            <pb facs="tcp:179379:1"/>
+            <p>A FORM OR ORDER OF THANKSGIVING<g ref="char:punc">▪</g> AND PRAYER, TO BE U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ED In <hi>London,</hi> and Ten Miles round <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <hi>Sunday</hi> the 15th of this Inſtant <hi>January,</hi> and throughout <hi>England</hi> on <hi>Sunday</hi> the 29th of the ſame Month, by all Parſons, Vicars, and Curats in their Reſpective Pari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Churches, and Chapels, in Behalf of the King, and the Queen, and the Royal Family, upon Occaſion of the Queen's being with Child.</p>
+            <p>
+               <hi>By His Majesties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>Re-Printed at</hi> Holy-Rood-Houſe, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179379:2"/>
+            <pb facs="tcp:179379:2"/>
+            <head>
+               <hi>A FORM, OR ORDER OF THANKSGIVING AND PRAYER, To be</hi> 
+               <g ref="char:V">Ʋ</g>ſed in <hi>London,</hi> and Ten Miles round it, on <hi>Sunday</hi> the <hi>15th</hi> of this instant <hi>January,</hi> and throughout <hi>England</hi> on <hi>Sunday</hi> the <hi>29th</hi> of the ſame Month, by all Parſons, Vicars, and Curates, in their Reſpective Pariſh Churches, and Chapels, in behalf of the <hi>King,</hi> the <hi>Queen,</hi> and the <hi>Royal Family,</hi> upon Occaſion of the <hi>Queen's</hi> being with Child.</head>
+            <head type="sub">¶ This Service ſhall be the ſame with the uſual Office for the Days above named, except where it is hereafter otherwiſe appointed</head>
+            <div type="part">
+               <head>¶ <hi>At the beginning of Morning Prayer, the Mi<g ref="char:EOLhyphen"/>niſter ſhall read theſe Sentences following.</hi>
+               </head>
+               <p>I Exhort, that firſt of all Prayers,<note place="margin">1 <hi>Tim.</hi> 2.1.2.3.</note> Supplica<g ref="char:EOLhyphen"/>tions, Interceſſions, and Thankſgivings be made for all Men; for Kings, and all that are
+<pb facs="tcp:179379:3" rendition="simple:additions"/>
+in Authority, that we may lead a quiet and peace<g ref="char:EOLhyphen"/>able Life in all Godlineſs, and Honeſty; for this is Good, and Acceptable in the ſight of GOD our Saviour.</p>
+               <p>
+                  <note place="margin">S. Math. 7.12.</note>Whatſoever Ye would that Men ſhould Do un<g ref="char:EOLhyphen"/>to you, Do ye even ſo to them, for this is the Law and the Prophets.</p>
+            </div>
+            <div type="part">
+               <head>¶ In the Place of <hi>[Venite Exultemus]</hi> ſhall be uſed this following Hymn.</head>
+               <p>
+                  <note place="margin">Pſal. 96.1.</note>O Sing unto the Lord a new Song, ſing un<g ref="char:EOLhyphen"/>to the Lord all the whole Earth.</p>
+               <p>
+                  <note place="margin">verſ. 2.</note>
+                  <hi>Sing unto the Lord, and Praiſe his Name by telling his Salvation from day to day.</hi>
+               </p>
+               <p>For the Lord is Great, and cannot worthily be Praiſed, He is more to be feared than all Gods.</p>
+               <p>
+                  <hi>Glory and Worſhip are before him, Power and Honour are in his Sanctuary.</hi>
+               </p>
+               <p>Aſcribe unto the Lord, O ye Kindreds of the People, Aſcribe unto the Lord, Worſhip and Power.</p>
+               <p>
+                  <hi>Aſcribe unto the Lord, the Honour due unto his Name,</hi>
+                  <note place="margin">Pſal. 22.11</note> 
+                  <hi>bring Preſents, and come into his Courts.</hi>
+               </p>
+               <p>God ſtandeth in the Congregation of Princes. He is Judge among the Gods.</p>
+               <p>
+                  <note place="margin">Pſal. 33.13.</note>
+                  <hi>There is no King ſaved by the Multitude of an Hoſt, neither is any mighty Man delivered by much ſtrength.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:179379:3"/>But the Eye of the Lord is upon them that fear him,<note place="margin">ver. 17.</note> and upon them that put their Truſt in His Mercy.</p>
+               <p>
+                  <hi>Let all thoſe that ſeek Thee,</hi>
+                  <note place="margin">Pſal. 40.19.</note> 
+                  <hi>be joyful and glad in Thee, and let ſuch as love thy Salvation, ſay alway, the Lord be praiſed.</hi>
+               </p>
+               <p>O Think upon thy Congregation,<note place="margin">Pſal. 74.2.</note> whom thou haſt Redeemed and Purchaſed of Old.</p>
+               <p>
+                  <hi>Think upon the Tribe of thine Inheritance,</hi>
+                  <note place="margin">Pſal. 74.3.</note> 
+                  <hi>and Mount Sion, wherein thou haſt dwelt.</hi>
+               </p>
+               <p>Thou, O God, haſt ſent forth ſtrength for Us,<note place="margin">Pſal. 68.28.</note> Eſtabliſh, O Lord, what thou haſt wrought in Us.</p>
+               <p>
+                  <hi>So We thy People, and Seep of thy Paſture, ſhall give Thee Thanks for ever, and be ſhewing forth thy Praiſe from Generation to Generation.</hi>
+               </p>
+               <p>Glory be to the Father, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>As it was in the beginning,</hi> &amp;c.</p>
+               <p>¶ <hi>Proper Pſalms,</hi> 21.127.128.132.</p>
+               <p>¶ <hi>Proper Leſſons</hi>
+                  <list>
+                     <item>
+                        <hi>Gen.</hi> 17. <hi>to ver.</hi> 17.</item>
+                     <item>
+                        <hi>Heb.</hi> 11.</item>
+                  </list>
+               </p>
+               <p>¶ <hi>To be Added in the Verſicles after the Creed.</hi>
+               </p>
+               <p>O Lord, ſave the King.</p>
+               <p>
+                  <hi>And evermore mightily Defend Him.</hi>
+               </p>
+               <p>Prevent Him with the Bleſſings of Goodneſs.</p>
+               <p>
+                  <hi>And make him glad with the joy of thy Coun<g ref="char:EOLhyphen"/>tenance.</hi>
+               </p>
+               <p>O Lord, ſave Thy Servant the Queen.</p>
+               <p>
+                  <hi>And make Her a joyful Mother of Children.</hi>
+               </p>
+               <p>Endue thy Miniſters with Righteouſneſs, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:179379:4"/>
+               <head>¶ The firſt Collect inſtead of that for the Day.</head>
+               <p>O Almighty God, the Fountain of all Life by whoſe only Gift it cometh, that Mankind is Encreaſed; Bleſſed be that good Providence, which has Vouchſafed Us freſh Hopes of Royal Iſſue by our Gracious Queen <hi>Mary;</hi> Strengthen Her, we beſeech Thee, and Perfect what thou haſt begun. Command thy Holy Angels to Watch over Her Continually, and Defend Her from all Dangers, and evil Accidents, That what ſhe has Conceived may be happly brought forth, to the Joy of our Sovereign Lord the King, the farther Eſtalbiſhment of His Crown, the Hap<g ref="char:EOLhyphen"/>pineſs, and Welfare of the whole Kingdom, and the Glory of thy Great Name. Which We humbly Beg of thy Gracious Goodneſs through Jeſus Chriſt our Lord <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ At the end of the Litany, immediately after [<hi>We humbly beſeech Thee,</hi> &amp;c.] this fol<g ref="char:EOLhyphen"/>lowing Prayer is to be uſed.</head>
+               <p>ALmighty and Everliving God, We moſt humbly Acknowledge, That in Thee a<g ref="char:EOLhyphen"/>lone We Live, Move, and have our Beeing: and that Children, and the Fruit of the Womb are a Gift and Heritage that cometh only of Thee. We therefore devoutly beſeech Thee to
+<pb facs="tcp:179379:4"/>
+Preſerve and Protect our moſt Gracious Sove<g ref="char:EOLhyphen"/>reign Lord King JAMES, and ſo bleſs Him, that He may ſee His Children's Children, and Peace upon <hi>Iſrael.</hi> We pray Thee alſo for his Royal Conſort Queen MARY, Make her, O Lord, as a Fruitful Vine upon the Walls of his Houſe, and his Children like Olive branches round about his Table. Encreaſe and Multiply the whole Royal Family, That the King's Seed may endure, for ever, and his Throne be as the Sun before Thee. So we thy People ſhall remem<g ref="char:EOLhyphen"/>ber, and Praiſe thy Name from one Generation to another, through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+               <p>¶ <hi>In the Common Service next after the Com<g ref="char:EOLhyphen"/>mandments, the first Collect ſhall be the ſame, as in Morning Prayer,</hi> O Almighty God, the Fountain of all Life, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Then ſhall follow one of the two Collects for the King.</hi>
+               </p>
+               <p>¶ The Epiſtle 1 Theſ. 5. v. 14. to the 26.</p>
+               <p>¶ The Goſpel. S. Matth. 5. v. 3. to the 13.</p>
+            </div>
+            <div type="part">
+               <head>¶ After the Prayer for the Church Militant, ſhall follow this Prayer.</head>
+               <p>O Almighty GOD the Bleſſed and only Po<g ref="char:EOLhyphen"/>tentate, by whoſe Appointment and Bleſ<g ref="char:EOLhyphen"/>ſing Kings Reign, and Kingdoms are Eſtabliſh't
+<pb facs="tcp:179379:5"/>
+in Peace: We become Humble Suitors to thy Di<g ref="char:EOLhyphen"/>vine Majeſty in Behalf of our Dread Sovereign Lord King <hi>JAMES,</hi> That Thou wouldſt De<g ref="char:EOLhyphen"/>fend his Perſon in Safety, and Proſper his Reign with Honourable Succeſſes, and make his Name Glorious in the maintenance of Truth, Righteouſ<g ref="char:EOLhyphen"/>neſs and Charity; That under the happy influence of his Government, We may all lead Quiet and Peaceable Lives, in all Godlineſs, and Honeſty. We Acknowledge, with thankful Hearts, the great Mercy Thou haſt beſtow'd upon Him, and his Royal Conſort, and the whole Realm, in the apparent Hopes of farther Iſſue. Let the, Prayers of thy People prevail, that our Hopes be not Cut off, nor our Expectations Diſapointed. Let thy Watchful Providence Overſhaddow our Gracious Queen Preſerve her Health. Support her Spirit, and Grant her an Eaſie, and Happy Deliverance. And do thou ſo Graciouſly Bleſs and Multiply the whole Royal Family, that the Ages to come may evermore Rejoyce under the Government of our Sovereign, and his Poſterity; Which we earneſt<g ref="char:EOLhyphen"/>ly Crave of thy great Mercy, through Jeſus Chriſt our only Lord, and
+Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Let this be Printed,</p>
+            <closer>
+               <signed>Sunderland P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179379:5"/>
+            <pb facs="tcp:179379:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179379:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179379:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179379:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
